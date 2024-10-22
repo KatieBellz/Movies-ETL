@@ -1,4 +1,4 @@
-## Module 8 Challenge ETL
+## Automated Movies Data Pipeline
 The project task is to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables.
 
 ## Summary of Tasks
